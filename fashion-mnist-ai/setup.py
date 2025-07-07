@@ -10,4 +10,5 @@ setup(
         "gradio",
         "scikit-learn"
     ]
+    author="Druta Valeria",
 )
